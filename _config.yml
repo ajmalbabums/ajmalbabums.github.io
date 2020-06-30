@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "https://in.linkedin.com/in/ajmalbabums"
+  orcid            : "https://orcid.org/0000-0002-7786-2181"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ajmalbabums"
+  twitter          : #"ajmalbabums"
   vine             :
   weibo            :
   xing             :
