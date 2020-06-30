@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ajmal Babu M S"
 title_separator          : "-"
-name                     : &name "Ajmal Babu M S"
+name                     : &name "Ajmal Babu Mahasrankintakam"
 description              : &description "Research Scholar at Indian Institute of Technology Bombay, India"
 url                      : https://ajmalbabums.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
