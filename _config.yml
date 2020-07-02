@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ajmal Babu Mahasrankintakam"
+title                    : "Ajmal Babu M S"
 title_separator          : "-"
 name                     : &name "Ajmal Babu Mahasrankintakam"
 description              : &description "Research Scholar at Indian Institute of Technology Bombay, India"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ajmal Babu M S"
+  name             : "Ajmal Babu Mahasrankintakam"
   avatar           : "profile.png"
   bio              : "Research Scholar, Department of Civil Engineering, Indian Institute of Technology Bombay"
   location         : "Mumbai, India"
@@ -88,7 +88,8 @@ author:
   pubmed           : #"https://www.civil.iitb.ac.in"
   googlescholar    : "https://scholar.google.co.in/citations?user=LRDIwvQAAAAJ&hl=en"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Ajmal_Babu_M_S"
+  researchgate     : "https://www.researchgate.net/profile/
+  _Babu_M_S"
   uri              :
   bitbucket        :
   codepen          :
