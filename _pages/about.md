@@ -13,10 +13,12 @@ redirect_from:
 ------------
 Currently I am a research scholar at  
 Structural Safety, Risk and Reliability Lab,  
-[Department of Civil Engineering,](http://www.civil.iitb.ac.in/)  
-[Indian Institute of Technology,](http://www.iitb.ac.in/)  
-Mumbai, India - 400076 
+[Department of Civil Engineering,](http://www.civil.iitb.ac.in/, Civil-IIT Bombay)  
+[Indian Institute of Technology Bombay,](http://www.iitb.ac.in/ "IIT Bombay")  
+Mumbai, India - 400076  
+
+Advisor: [Prof. Siddhartha Ghosh](https://www.civil.iitb.ac.in/~sghosh/ "Prof. Siddhartha Ghosh, IIT Bombay")
 
 ------------
 
-##### Checkout our team  [phdhacks](https://sites.google.com/view/phdhacks "phdhacks")
+##### Checkout my team  [SUCOE](https://sites.google.com/view/sucoe/ "Structural, Uncertainty, Computation and Optimization in Engineering")
