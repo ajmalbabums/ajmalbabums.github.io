@@ -12,13 +12,9 @@ redirect_from:
 ### This is my personal webpage 
 ------------
 Currently I am a research scholar at  
-
-Structural Safety, Risk and Reliability Lab, 
-
+Structural Safety, Risk and Reliability Lab,
 [Department of Civil Engineering,](http://www.civil.iitb.ac.in/) 
-
 [Indian Institute of Technology,](http://www.iitb.ac.in/) 
-
 Mumbai, India - 400076 
 
 ------------
