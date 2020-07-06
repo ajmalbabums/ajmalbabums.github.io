@@ -11,10 +11,10 @@ redirect_from:
 
 ### This is my personal webpage 
 ------------
-Currently I am a research scholar at  
-Structural Safety, Risk and Reliability Lab, 
-Department of Civil Engineering, 
-Indian Institute of Technology, 
+Currently I am a research scholar at  \
+Structural Safety, Risk and Reliability Lab, \
+Department of Civil Engineering, \
+Indian Institute of Technology, \
 Mumbai, India - 400076 
 
 ------------
