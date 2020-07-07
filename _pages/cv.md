@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Tech in Civil Engineering, College of Engineering Trivandrum, 2015
-* M.Tech in Computer Aided Structural Enginnering, Govt. College of Engineering Kannur, 2017
+* M.Tech in Computer Aided Structural Engineering, Govt. College of Engineering Kannur, 2017
 
 Work experience
 ======
